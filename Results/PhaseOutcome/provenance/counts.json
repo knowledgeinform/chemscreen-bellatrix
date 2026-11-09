@@ -1,0 +1,35 @@
+{
+  "xint": {
+    "indexed": 247656,
+    "bad_json": 0
+  },
+  "materials": {
+    "records": 37319
+  },
+  "computational": {
+    "records": 243451,
+    "s4e_xint_linked": 242796,
+    "s4e_unlinked": 0,
+    "chemscreen_dft": 544,
+    "chemscreen_candidate_pool": 111,
+    "other": 0
+  },
+  "efa": {
+    "pocc_groups": 3685,
+    "complete": 2034,
+    "incomplete": 1651
+  },
+  "literature": {
+    "files": 363,
+    "records": 363
+  },
+  "experimental": {
+    "scope": "OSES only",
+    "oses_labels": 64,
+    "matched": 64,
+    "unmatched": 0,
+    "ambiguous": 0,
+    "loop_trial_files_scanned": 393,
+    "non_oses_trials_written": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "legacy_efa_test": {
+    "legacy_efa": 4.486129848977,
+    "reconstructed_efa": 4.486118425112355,
+    "absolute_difference": 1.1423864644477533e-05,
+    "relative_difference_percent": 0.00025464855073427243,
+    "status": "pass"
+  },
+  "xint_loop_join": {
+    "previously_verified_loop_s4e_records": 242796,
+    "previously_verified_exact_matches": 242796,
+    "status": "pass"
+  }
+}

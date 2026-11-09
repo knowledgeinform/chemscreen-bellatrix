@@ -1,0 +1,164 @@
+[
+    {
+        "species": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Zn",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Zn"
+        ],
+        "Composition": [
+            0.125,
+            0.125,
+            0.125,
+            0.125,
+            0.5
+        ],
+        "chem_id": "CoMgNiOZn_125125125500125",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "https://arxiv.org/pdf/2408.06322",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Co",
+            "Ni",
+            "Cu",
+            "Zn",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Ni",
+            "Cu",
+            "Zn"
+        ],
+        "Composition": [
+            0.125,
+            0.125,
+            0.125,
+            0.125,
+            0.5
+        ],
+        "chem_id": "CoCuNiOZn_125125125500125",
+        "our_data": "No",
+        "single_phase": "No",
+        "source": "https://arxiv.org/pdf/2408.06322",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Cu",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Cu"
+        ],
+        "Composition": [
+            0.125,
+            0.125,
+            0.125,
+            0.125,
+            0.5
+        ],
+        "chem_id": "CoCuMgNiO_125125125125500",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "https://arxiv.org/pdf/2408.06322",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Mg",
+            "Ni",
+            "Cu",
+            "Zn",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Ni",
+            "Cu",
+            "Zn"
+        ],
+        "Composition": [
+            0.125,
+            0.125,
+            0.125,
+            0.125,
+            0.5
+        ],
+        "chem_id": "CuMgNiOZn_125125125500125",
+        "our_data": "No",
+        "single_phase": "No",
+        "source": "/10.1016/j.actamat.2024.120289.",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Mg",
+            "Co",
+            "Cu",
+            "Zn",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Co",
+            "Cu",
+            "Zn"
+        ],
+        "Composition": [
+            0.125,
+            0.125,
+            0.125,
+            0.125,
+            0.5
+        ],
+        "chem_id": "CoCuMgOZn_125125125500125",
+        "our_data": "No",
+        "single_phase": "No",
+        "source": "https://arxiv.org/pdf/2408.06322",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Co",
+            "Fe",
+            "Mg",
+            "Ni",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Fe",
+            "Mg",
+            "Ni"
+        ],
+        "Composition": [
+            0.125,
+            0.125,
+            0.125,
+            0.125,
+            0.5
+        ],
+        "chem_id": "CoFeMgNiO_125125125125500",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "10.1039/c8ee00050f",
+        "notes": ""
+    }
+]

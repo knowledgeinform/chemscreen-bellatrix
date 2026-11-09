@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-09-28T06:19:33.065786+00:00",
+  "dataset_scope": {
+    "materials": "all LOOP materials",
+    "computational": "all LOOP DFT calculations",
+    "literature": "all LOOP literature records",
+    "experimental": "OSES experiments only"
+  },
+  "sources": {
+    "materials": "/common/LOOP/archive/records/materials",
+    "xint": "/common/CHAOS/JLS/XINT",
+    "raw_aflow": "/common/LIB*/RAW",
+    "raw_uploads": "/common/LOOP/raw-uploads",
+    "oses_labels": "/home/tlatchm1/ChemScreen/Data/oses/oses_labels.csv"
+  }
+}

@@ -1,0 +1,88 @@
+# # Ignore all Output folders
+# Output/
+
+# # Ignore all Archive folders and their contents
+# archive/
+
+# # Ignore all log files
+# *.log
+
+# # Python cache
+# __pycache__/
+# *.pyc
+# .ipynb_checkpoints/
+
+# ============================================================
+# ChemScreen .gitignore
+# ============================================================
+
+# ------------------------------------------------------------
+# Generated ChemScreen outputs
+# ------------------------------------------------------------
+
+# Ignore all Output folders
+Output/
+
+# Ignore all Archive folders and their contents
+archive/
+
+
+# ------------------------------------------------------------
+# Python
+# ------------------------------------------------------------
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+
+# ------------------------------------------------------------
+# Logs
+# ------------------------------------------------------------
+
+*.log
+
+
+# ------------------------------------------------------------
+# Phase-outcome models / generated ML artifacts
+# ------------------------------------------------------------
+
+Training/PhaseOutcome/models/
+*.joblib
+
+
+# ------------------------------------------------------------
+# Bellatrix generated datasets
+# ------------------------------------------------------------
+
+# Generated Bellatrix/LOOP corpus and scratch data should
+# remain on Bellatrix and should not be committed to GitHub.
+chemscreen_data/
+scratch/
+
+
+# ------------------------------------------------------------
+# Temporary databases / indexes
+# ------------------------------------------------------------
+
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+
+# ------------------------------------------------------------
+# Local configuration / environment
+# ------------------------------------------------------------
+
+.env
+.env.*
+.DS_Store

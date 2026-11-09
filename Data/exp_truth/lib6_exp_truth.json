@@ -1,0 +1,482 @@
+[
+    {
+        "species": [
+            "Co",
+            "Cu",
+            "Mg",
+            "Mn",
+            "Zn",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Cu",
+            "Mg",
+            "Mn",
+            "Zn"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoCuMgMnOZn_100100100100500100",
+        "our_data": "No",
+        "single_phase": "No",
+        "source": "10.1039/D2TA06101E",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Co",
+            "Cu",
+            "Mg",
+            "Ni",
+            "Zn",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Cu",
+            "Mg",
+            "Ni",
+            "Zn"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoCuMgNiOZn_100100100100500100",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "10.1038/ncomms9485",
+        "notes": "first ESO"
+    },
+    {
+        "species": [
+            "Co",
+            "Ni",
+            "Zn",
+            "Mn",
+            "Fe",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Ni",
+            "Zn",
+            "Mn",
+            "Fe"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoFeMnNiOZn_100100100100500100",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "https://arxiv.org/pdf/2503.07866",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Co",
+            "Fe",
+            "Mg",
+            "Mn",
+            "Ni",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Fe",
+            "Mg",
+            "Mn",
+            "Ni"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoFeMgMnNiO_100100100100100500",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "10.48550/arXiv.2408.06322",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Mg",
+            "Co",
+            "Zn",
+            "Mn",
+            "Fe",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Co",
+            "Zn",
+            "Mn",
+            "Fe"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoFeMgMnOZn_100100100100500100",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "https://arxiv.org/pdf/2503.07865",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Zn",
+            "Fe",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Zn",
+            "Fe"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoFeMgNiOZn_100100100100500100",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "https://arxiv.org/pdf/2503.07869",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Mg",
+            "Ni",
+            "Zn",
+            "Mn",
+            "Fe",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Ni",
+            "Zn",
+            "Mn",
+            "Fe"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "FeMgMnNiOZn_100100100100500100",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "https://arxiv.org/pdf/2503.07867",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Zn",
+            "Mn",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Zn",
+            "Mn"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoMgMnNiOZn_100100100100500100",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "https://arxiv.org/pdf/2503.07870",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Co",
+            "Cu",
+            "Mo",
+            "Ni",
+            "Zn",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Cu",
+            "Mo",
+            "Ni",
+            "Zn"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoCuMoNiOZn_100100100100500100",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "10.1016/j.apmt.2020.100680",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Co",
+            "Cr",
+            "Fe",
+            "Mg",
+            "Ni",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Cr",
+            "Fe",
+            "Mg",
+            "Ni"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoCrFeMgNiO_100100100100100500",
+        "our_data": "No",
+        "single_phase": "No",
+        "source": "10.1016/j.jeurceramsoc.2019.11.030",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Co",
+            "Cr",
+            "Mg",
+            "Mn",
+            "Ni",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Cr",
+            "Mg",
+            "Mn",
+            "Ni"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoCrMgMnNiO_100100100100100500",
+        "our_data": "No",
+        "single_phase": "No",
+        "source": "10.1016/j.jeurceramsoc.2019.11.031",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Zn",
+            "Ni",
+            "Co",
+            "Mn",
+            "Cu",
+            "O"
+        ],
+        "Elements": [
+            "Zn",
+            "Ni",
+            "Co",
+            "Mn",
+            "Cu"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoCuMnNiOZn_100100100100500100",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "10.1007/s10853-020-05183-4",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Al",
+            "Cr",
+            "Fe",
+            "Ni",
+            "Mn",
+            "O"
+        ],
+        "Elements": [
+            "Al",
+            "Cr",
+            "Fe",
+            "Ni",
+            "Mn"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "AlCrFeMnNiO_100100100100100500",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "10.1016/j.jmmm.2021.168271",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Al",
+            "Fe",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Co",
+            "Ni",
+            "Al",
+            "Fe"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "AlCoFeMgNiO_100100100100100500",
+        "our_data": "No",
+        "single_phase": "Yes",
+        "source": "https://arxiv.org/abs/2504.08209",
+        "notes": ""
+    },
+    {
+        "species": [
+            "Co",
+            "Cu",
+            "Mg",
+            "Fe",
+            "Zn",
+            "O"
+        ],
+        "Elements": [
+            "Co",
+            "Cu",
+            "Mg",
+            "Fe",
+            "Zn"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CoCuFeMgOZn_100100100100500100",
+        "our_data": "Yes",
+        "single_phase": "Yes",
+        "source": "APL",
+        "notes": "Oses11"
+    },
+    {
+        "species": [
+            "Mg",
+            "Ca",
+            "Mn",
+            "Fe",
+            "Ni",
+            "O"
+        ],
+        "Elements": [
+            "Mg",
+            "Ca",
+            "Mn",
+            "Fe",
+            "Ni"
+        ],
+        "Composition": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.5
+        ],
+        "chem_id": "CaFeMgMnNiO_100100100100100500",
+        "our_data": "Yes",
+        "single_phase": "No",
+        "source": "APL",
+        "notes": ""
+    }
+]

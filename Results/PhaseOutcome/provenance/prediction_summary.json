@@ -1,0 +1,37 @@
+{
+  "eligible_candidates": 37277,
+  "routes_evaluated": [
+    "air",
+    "ar"
+  ],
+  "candidates_with_efa": 2121,
+  "candidates_with_literature": 375,
+  "candidate_domain_coverage": {
+    "in_training_element_domain": 3255,
+    "out_of_training_element_domain": 34022
+  },
+  "best_route_counts": {
+    "air": 36928,
+    "ar": 349
+  },
+  "ranking_strategy": {
+    "weighted_score": false,
+    "primary": "best_route_dual_phase_score_desc",
+    "secondary": "efa_available_then_efa_asc",
+    "tertiary": "literature_support",
+    "additional_tiebreak": "route_robust_dual_score_desc"
+  },
+  "filters": {
+    "include_tested": false,
+    "require_efa": false,
+    "max_efa": null,
+    "min_rock": null,
+    "min_spinel": null,
+    "min_dual": null
+  },
+  "outputs": {
+    "candidate_predictions": "/home/tlatchm1/scratch/chemscreen_data/predictions/candidate_predictions.jsonl",
+    "candidate_route_predictions": "/home/tlatchm1/scratch/chemscreen_data/predictions/candidate_route_predictions.jsonl",
+    "top_candidates": "/home/tlatchm1/scratch/chemscreen_data/predictions/top_20_phase_candidates.json"
+  }
+}

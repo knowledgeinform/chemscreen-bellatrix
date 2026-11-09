@@ -1,0 +1,1680 @@
+{
+  "requested_top": 20,
+  "selected": 20,
+  "selection_scope": "PCO-like candidate selection",
+  "scientific_objective": "Identify compositionally novel, relatively low-EFA candidates within the OSES experimental applicability domain that are predicted to support both rock-salt and spinel formation.",
+  "oses_composition_count": 42,
+  "threshold_mode": "automatic",
+  "active_thresholds": {
+    "max_efa": 34.12111399456837,
+    "min_rock_salt": 0.4,
+    "min_spinel": 0.4,
+    "min_dual": null,
+    "min_robust_dual": null
+  },
+  "automatic_threshold_selection": {
+    "phase_threshold": 0.4,
+    "efa_percentile": 74,
+    "efa_cutoff": 34.12111399456837,
+    "qualifying_records": 39,
+    "qualifying_unique_compositions": 20,
+    "requested_unique_compositions": 20,
+    "efa_reference_population": 258,
+    "oses_composition_groups_excluded": 42,
+    "search_priority": "phase_threshold_order_first; efa_percentile_ascending_second"
+  },
+  "automatic_search_configuration": {
+    "phase_thresholds": [
+      0.5,
+      0.45,
+      0.4
+    ],
+    "efa_percentile_start": 10,
+    "efa_percentile_stop": 90,
+    "efa_percentile_step": 1,
+    "search_priority": "phase threshold order first; EFA percentile ascending second"
+  },
+  "automatic_search_trace": [
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 10,
+      "efa_cutoff": 14.050974322919629,
+      "qualifying_records": 0,
+      "qualifying_unique_compositions": 0
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 11,
+      "efa_cutoff": 14.299834787822798,
+      "qualifying_records": 0,
+      "qualifying_unique_compositions": 0
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 12,
+      "efa_cutoff": 14.349562252434575,
+      "qualifying_records": 0,
+      "qualifying_unique_compositions": 0
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 13,
+      "efa_cutoff": 14.69314138758022,
+      "qualifying_records": 0,
+      "qualifying_unique_compositions": 0
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 14,
+      "efa_cutoff": 14.817837947108284,
+      "qualifying_records": 0,
+      "qualifying_unique_compositions": 0
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 15,
+      "efa_cutoff": 14.967838019740283,
+      "qualifying_records": 0,
+      "qualifying_unique_compositions": 0
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 16,
+      "efa_cutoff": 14.982909628058339,
+      "qualifying_records": 0,
+      "qualifying_unique_compositions": 0
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 17,
+      "efa_cutoff": 15.466393280553193,
+      "qualifying_records": 0,
+      "qualifying_unique_compositions": 0
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 18,
+      "efa_cutoff": 15.754092752548637,
+      "qualifying_records": 0,
+      "qualifying_unique_compositions": 0
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 19,
+      "efa_cutoff": 15.867063961241676,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 20,
+      "efa_cutoff": 16.094806506908174,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 21,
+      "efa_cutoff": 16.219538743257676,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 22,
+      "efa_cutoff": 16.423684027775003,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 23,
+      "efa_cutoff": 16.604128711367714,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 24,
+      "efa_cutoff": 17.81446087339487,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 25,
+      "efa_cutoff": 18.1838852229918,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 26,
+      "efa_cutoff": 18.43103969626055,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 27,
+      "efa_cutoff": 18.777204659628765,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 28,
+      "efa_cutoff": 19.050598271733033,
+      "qualifying_records": 2,
+      "qualifying_unique_compositions": 1
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 29,
+      "efa_cutoff": 19.82929894868435,
+      "qualifying_records": 6,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 30,
+      "efa_cutoff": 19.83247370718795,
+      "qualifying_records": 6,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 31,
+      "efa_cutoff": 19.97015436410485,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 32,
+      "efa_cutoff": 20.02875031937725,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 33,
+      "efa_cutoff": 20.21756468154418,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 34,
+      "efa_cutoff": 20.680525237070544,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 35,
+      "efa_cutoff": 20.735434922335305,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 36,
+      "efa_cutoff": 20.997717846092744,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 37,
+      "efa_cutoff": 21.12825878439934,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 38,
+      "efa_cutoff": 21.642445297332312,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 39,
+      "efa_cutoff": 21.913874613409863,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 40,
+      "efa_cutoff": 22.167673923562635,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 41,
+      "efa_cutoff": 23.577250966016628,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 42,
+      "efa_cutoff": 23.602022349353792,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 43,
+      "efa_cutoff": 23.805665823087768,
+      "qualifying_records": 10,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 44,
+      "efa_cutoff": 23.859055467162737,
+      "qualifying_records": 10,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 45,
+      "efa_cutoff": 23.949951690017162,
+      "qualifying_records": 10,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 46,
+      "efa_cutoff": 24.001886428287616,
+      "qualifying_records": 10,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 47,
+      "efa_cutoff": 24.045918275946885,
+      "qualifying_records": 10,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 48,
+      "efa_cutoff": 24.34769596699313,
+      "qualifying_records": 10,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 49,
+      "efa_cutoff": 24.731914468667508,
+      "qualifying_records": 10,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 50,
+      "efa_cutoff": 24.774244889666765,
+      "qualifying_records": 10,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 51,
+      "efa_cutoff": 24.817050915163225,
+      "qualifying_records": 10,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 52,
+      "efa_cutoff": 25.063536763451037,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 53,
+      "efa_cutoff": 26.1167096412981,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 54,
+      "efa_cutoff": 26.772889337722017,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 55,
+      "efa_cutoff": 27.18936555576144,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 56,
+      "efa_cutoff": 27.366929212781343,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 57,
+      "efa_cutoff": 27.44618299908107,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 58,
+      "efa_cutoff": 27.84699431866778,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 59,
+      "efa_cutoff": 28.407699307308786,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 60,
+      "efa_cutoff": 28.91962939164042,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 61,
+      "efa_cutoff": 29.80288003632571,
+      "qualifying_records": 11,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 62,
+      "efa_cutoff": 29.906405256812707,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 63,
+      "efa_cutoff": 29.916635270781473,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 64,
+      "efa_cutoff": 30.646472843008496,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 65,
+      "efa_cutoff": 30.759596085747773,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 66,
+      "efa_cutoff": 31.081162617427808,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 67,
+      "efa_cutoff": 31.140301667940125,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 68,
+      "efa_cutoff": 31.957308879390855,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 69,
+      "efa_cutoff": 32.314564088676384,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 70,
+      "efa_cutoff": 32.4517631289554,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 71,
+      "efa_cutoff": 32.62726015872502,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 72,
+      "efa_cutoff": 32.86439165723193,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 73,
+      "efa_cutoff": 33.58171748695206,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 74,
+      "efa_cutoff": 34.12111399456837,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 75,
+      "efa_cutoff": 36.171253703414614,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 76,
+      "efa_cutoff": 36.30131601893832,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 77,
+      "efa_cutoff": 37.29860608485253,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 78,
+      "efa_cutoff": 37.94577292122621,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 79,
+      "efa_cutoff": 40.029525751925206,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 80,
+      "efa_cutoff": 40.48417882744551,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 81,
+      "efa_cutoff": 41.60903001773485,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 82,
+      "efa_cutoff": 42.06401953889795,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 83,
+      "efa_cutoff": 45.18085393330967,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 84,
+      "efa_cutoff": 48.01230912054616,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 85,
+      "efa_cutoff": 48.6126604539687,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 86,
+      "efa_cutoff": 48.96164489554209,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 87,
+      "efa_cutoff": 49.93322729479349,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 88,
+      "efa_cutoff": 50.19247957832976,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 89,
+      "efa_cutoff": 50.75227636277156,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.5,
+      "efa_percentile": 90,
+      "efa_cutoff": 51.76283857421371,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 10,
+      "efa_cutoff": 14.050974322919629,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 11,
+      "efa_cutoff": 14.299834787822798,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 12,
+      "efa_cutoff": 14.349562252434575,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 13,
+      "efa_cutoff": 14.69314138758022,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 14,
+      "efa_cutoff": 14.817837947108284,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 15,
+      "efa_cutoff": 14.967838019740283,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 16,
+      "efa_cutoff": 14.982909628058339,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 17,
+      "efa_cutoff": 15.466393280553193,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 18,
+      "efa_cutoff": 15.754092752548637,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 19,
+      "efa_cutoff": 15.867063961241676,
+      "qualifying_records": 5,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 20,
+      "efa_cutoff": 16.094806506908174,
+      "qualifying_records": 5,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 21,
+      "efa_cutoff": 16.219538743257676,
+      "qualifying_records": 5,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 22,
+      "efa_cutoff": 16.423684027775003,
+      "qualifying_records": 5,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 23,
+      "efa_cutoff": 16.604128711367714,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 24,
+      "efa_cutoff": 17.81446087339487,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 25,
+      "efa_cutoff": 18.1838852229918,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 26,
+      "efa_cutoff": 18.43103969626055,
+      "qualifying_records": 7,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 27,
+      "efa_cutoff": 18.777204659628765,
+      "qualifying_records": 8,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 28,
+      "efa_cutoff": 19.050598271733033,
+      "qualifying_records": 8,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 29,
+      "efa_cutoff": 19.82929894868435,
+      "qualifying_records": 12,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 30,
+      "efa_cutoff": 19.83247370718795,
+      "qualifying_records": 12,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 31,
+      "efa_cutoff": 19.97015436410485,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 7
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 32,
+      "efa_cutoff": 20.02875031937725,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 7
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 33,
+      "efa_cutoff": 20.21756468154418,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 7
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 34,
+      "efa_cutoff": 20.680525237070544,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 7
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 35,
+      "efa_cutoff": 20.735434922335305,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 7
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 36,
+      "efa_cutoff": 20.997717846092744,
+      "qualifying_records": 15,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 37,
+      "efa_cutoff": 21.12825878439934,
+      "qualifying_records": 15,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 38,
+      "efa_cutoff": 21.642445297332312,
+      "qualifying_records": 15,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 39,
+      "efa_cutoff": 21.913874613409863,
+      "qualifying_records": 15,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 40,
+      "efa_cutoff": 22.167673923562635,
+      "qualifying_records": 15,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 41,
+      "efa_cutoff": 23.577250966016628,
+      "qualifying_records": 15,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 42,
+      "efa_cutoff": 23.602022349353792,
+      "qualifying_records": 15,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 43,
+      "efa_cutoff": 23.805665823087768,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 44,
+      "efa_cutoff": 23.859055467162737,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 45,
+      "efa_cutoff": 23.949951690017162,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 46,
+      "efa_cutoff": 24.001886428287616,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 47,
+      "efa_cutoff": 24.045918275946885,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 48,
+      "efa_cutoff": 24.34769596699313,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 49,
+      "efa_cutoff": 24.731914468667508,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 50,
+      "efa_cutoff": 24.774244889666765,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 51,
+      "efa_cutoff": 24.817050915163225,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 52,
+      "efa_cutoff": 25.063536763451037,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 53,
+      "efa_cutoff": 26.1167096412981,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 54,
+      "efa_cutoff": 26.772889337722017,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 55,
+      "efa_cutoff": 27.18936555576144,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 56,
+      "efa_cutoff": 27.366929212781343,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 57,
+      "efa_cutoff": 27.44618299908107,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 58,
+      "efa_cutoff": 27.84699431866778,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 59,
+      "efa_cutoff": 28.407699307308786,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 60,
+      "efa_cutoff": 28.91962939164042,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 61,
+      "efa_cutoff": 29.80288003632571,
+      "qualifying_records": 19,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 62,
+      "efa_cutoff": 29.906405256812707,
+      "qualifying_records": 21,
+      "qualifying_unique_compositions": 10
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 63,
+      "efa_cutoff": 29.916635270781473,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 64,
+      "efa_cutoff": 30.646472843008496,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 65,
+      "efa_cutoff": 30.759596085747773,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 66,
+      "efa_cutoff": 31.081162617427808,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 67,
+      "efa_cutoff": 31.140301667940125,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 68,
+      "efa_cutoff": 31.957308879390855,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 69,
+      "efa_cutoff": 32.314564088676384,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 70,
+      "efa_cutoff": 32.4517631289554,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 71,
+      "efa_cutoff": 32.62726015872502,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 72,
+      "efa_cutoff": 32.86439165723193,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 73,
+      "efa_cutoff": 33.58171748695206,
+      "qualifying_records": 25,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 74,
+      "efa_cutoff": 34.12111399456837,
+      "qualifying_records": 25,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 75,
+      "efa_cutoff": 36.171253703414614,
+      "qualifying_records": 26,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 76,
+      "efa_cutoff": 36.30131601893832,
+      "qualifying_records": 26,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 77,
+      "efa_cutoff": 37.29860608485253,
+      "qualifying_records": 28,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 78,
+      "efa_cutoff": 37.94577292122621,
+      "qualifying_records": 28,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 79,
+      "efa_cutoff": 40.029525751925206,
+      "qualifying_records": 28,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 80,
+      "efa_cutoff": 40.48417882744551,
+      "qualifying_records": 28,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 81,
+      "efa_cutoff": 41.60903001773485,
+      "qualifying_records": 28,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 82,
+      "efa_cutoff": 42.06401953889795,
+      "qualifying_records": 28,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 83,
+      "efa_cutoff": 45.18085393330967,
+      "qualifying_records": 30,
+      "qualifying_unique_compositions": 14
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 84,
+      "efa_cutoff": 48.01230912054616,
+      "qualifying_records": 32,
+      "qualifying_unique_compositions": 15
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 85,
+      "efa_cutoff": 48.6126604539687,
+      "qualifying_records": 32,
+      "qualifying_unique_compositions": 15
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 86,
+      "efa_cutoff": 48.96164489554209,
+      "qualifying_records": 32,
+      "qualifying_unique_compositions": 15
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 87,
+      "efa_cutoff": 49.93322729479349,
+      "qualifying_records": 32,
+      "qualifying_unique_compositions": 15
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 88,
+      "efa_cutoff": 50.19247957832976,
+      "qualifying_records": 32,
+      "qualifying_unique_compositions": 15
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 89,
+      "efa_cutoff": 50.75227636277156,
+      "qualifying_records": 34,
+      "qualifying_unique_compositions": 16
+    },
+    {
+      "phase_threshold": 0.45,
+      "efa_percentile": 90,
+      "efa_cutoff": 51.76283857421371,
+      "qualifying_records": 36,
+      "qualifying_unique_compositions": 17
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 10,
+      "efa_cutoff": 14.050974322919629,
+      "qualifying_records": 3,
+      "qualifying_unique_compositions": 2
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 11,
+      "efa_cutoff": 14.299834787822798,
+      "qualifying_records": 4,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 12,
+      "efa_cutoff": 14.349562252434575,
+      "qualifying_records": 4,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 13,
+      "efa_cutoff": 14.69314138758022,
+      "qualifying_records": 4,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 14,
+      "efa_cutoff": 14.817837947108284,
+      "qualifying_records": 4,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 15,
+      "efa_cutoff": 14.967838019740283,
+      "qualifying_records": 4,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 16,
+      "efa_cutoff": 14.982909628058339,
+      "qualifying_records": 4,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 17,
+      "efa_cutoff": 15.466393280553193,
+      "qualifying_records": 4,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 18,
+      "efa_cutoff": 15.754092752548637,
+      "qualifying_records": 4,
+      "qualifying_unique_compositions": 3
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 19,
+      "efa_cutoff": 15.867063961241676,
+      "qualifying_records": 6,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 20,
+      "efa_cutoff": 16.094806506908174,
+      "qualifying_records": 6,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 21,
+      "efa_cutoff": 16.219538743257676,
+      "qualifying_records": 6,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 22,
+      "efa_cutoff": 16.423684027775003,
+      "qualifying_records": 6,
+      "qualifying_unique_compositions": 4
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 23,
+      "efa_cutoff": 16.604128711367714,
+      "qualifying_records": 8,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 24,
+      "efa_cutoff": 17.81446087339487,
+      "qualifying_records": 8,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 25,
+      "efa_cutoff": 18.1838852229918,
+      "qualifying_records": 8,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 26,
+      "efa_cutoff": 18.43103969626055,
+      "qualifying_records": 8,
+      "qualifying_unique_compositions": 5
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 27,
+      "efa_cutoff": 18.777204659628765,
+      "qualifying_records": 9,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 28,
+      "efa_cutoff": 19.050598271733033,
+      "qualifying_records": 9,
+      "qualifying_unique_compositions": 6
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 29,
+      "efa_cutoff": 19.82929894868435,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 7
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 30,
+      "efa_cutoff": 19.83247370718795,
+      "qualifying_records": 13,
+      "qualifying_unique_compositions": 7
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 31,
+      "efa_cutoff": 19.97015436410485,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 32,
+      "efa_cutoff": 20.02875031937725,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 33,
+      "efa_cutoff": 20.21756468154418,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 34,
+      "efa_cutoff": 20.680525237070544,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 35,
+      "efa_cutoff": 20.735434922335305,
+      "qualifying_records": 14,
+      "qualifying_unique_compositions": 8
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 36,
+      "efa_cutoff": 20.997717846092744,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 37,
+      "efa_cutoff": 21.12825878439934,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 38,
+      "efa_cutoff": 21.642445297332312,
+      "qualifying_records": 16,
+      "qualifying_unique_compositions": 9
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 39,
+      "efa_cutoff": 21.913874613409863,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 10
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 40,
+      "efa_cutoff": 22.167673923562635,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 10
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 41,
+      "efa_cutoff": 23.577250966016628,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 10
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 42,
+      "efa_cutoff": 23.602022349353792,
+      "qualifying_records": 18,
+      "qualifying_unique_compositions": 10
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 43,
+      "efa_cutoff": 23.805665823087768,
+      "qualifying_records": 21,
+      "qualifying_unique_compositions": 11
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 44,
+      "efa_cutoff": 23.859055467162737,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 45,
+      "efa_cutoff": 23.949951690017162,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 46,
+      "efa_cutoff": 24.001886428287616,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 47,
+      "efa_cutoff": 24.045918275946885,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 48,
+      "efa_cutoff": 24.34769596699313,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 49,
+      "efa_cutoff": 24.731914468667508,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 50,
+      "efa_cutoff": 24.774244889666765,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 51,
+      "efa_cutoff": 24.817050915163225,
+      "qualifying_records": 23,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 52,
+      "efa_cutoff": 25.063536763451037,
+      "qualifying_records": 24,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 53,
+      "efa_cutoff": 26.1167096412981,
+      "qualifying_records": 24,
+      "qualifying_unique_compositions": 12
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 54,
+      "efa_cutoff": 26.772889337722017,
+      "qualifying_records": 26,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 55,
+      "efa_cutoff": 27.18936555576144,
+      "qualifying_records": 26,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 56,
+      "efa_cutoff": 27.366929212781343,
+      "qualifying_records": 26,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 57,
+      "efa_cutoff": 27.44618299908107,
+      "qualifying_records": 26,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 58,
+      "efa_cutoff": 27.84699431866778,
+      "qualifying_records": 26,
+      "qualifying_unique_compositions": 13
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 59,
+      "efa_cutoff": 28.407699307308786,
+      "qualifying_records": 27,
+      "qualifying_unique_compositions": 14
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 60,
+      "efa_cutoff": 28.91962939164042,
+      "qualifying_records": 27,
+      "qualifying_unique_compositions": 14
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 61,
+      "efa_cutoff": 29.80288003632571,
+      "qualifying_records": 27,
+      "qualifying_unique_compositions": 14
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 62,
+      "efa_cutoff": 29.906405256812707,
+      "qualifying_records": 29,
+      "qualifying_unique_compositions": 15
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 63,
+      "efa_cutoff": 29.916635270781473,
+      "qualifying_records": 31,
+      "qualifying_unique_compositions": 16
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 64,
+      "efa_cutoff": 30.646472843008496,
+      "qualifying_records": 31,
+      "qualifying_unique_compositions": 16
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 65,
+      "efa_cutoff": 30.759596085747773,
+      "qualifying_records": 31,
+      "qualifying_unique_compositions": 16
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 66,
+      "efa_cutoff": 31.081162617427808,
+      "qualifying_records": 33,
+      "qualifying_unique_compositions": 17
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 67,
+      "efa_cutoff": 31.140301667940125,
+      "qualifying_records": 33,
+      "qualifying_unique_compositions": 17
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 68,
+      "efa_cutoff": 31.957308879390855,
+      "qualifying_records": 35,
+      "qualifying_unique_compositions": 18
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 69,
+      "efa_cutoff": 32.314564088676384,
+      "qualifying_records": 35,
+      "qualifying_unique_compositions": 18
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 70,
+      "efa_cutoff": 32.4517631289554,
+      "qualifying_records": 35,
+      "qualifying_unique_compositions": 18
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 71,
+      "efa_cutoff": 32.62726015872502,
+      "qualifying_records": 35,
+      "qualifying_unique_compositions": 18
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 72,
+      "efa_cutoff": 32.86439165723193,
+      "qualifying_records": 35,
+      "qualifying_unique_compositions": 18
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 73,
+      "efa_cutoff": 33.58171748695206,
+      "qualifying_records": 37,
+      "qualifying_unique_compositions": 19
+    },
+    {
+      "phase_threshold": 0.4,
+      "efa_percentile": 74,
+      "efa_cutoff": 34.12111399456837,
+      "qualifying_records": 39,
+      "qualifying_unique_compositions": 20
+    }
+  ],
+  "selection_policy": {
+    "weighted_score_used": false,
+    "oses_material_overlap_allowed": false,
+    "oses_composition_overlap_allowed": false,
+    "novel_composition_required": true,
+    "applicability_domain": "strict",
+    "unique_composition_required": true,
+    "ranking_primary": "dual_phase_score_desc",
+    "ranking_secondary": "efa_asc",
+    "ranking_tertiary": "literature_success_desc",
+    "ranking_quaternary": "literature_report_count_desc",
+    "additional_tiebreak": "route_robust_dual_score_desc"
+  },
+  "active_filters": {
+    "include_tested": false,
+    "allow_missing_efa": false,
+    "allow_out_of_domain": false,
+    "allow_duplicate_compositions": false,
+    "route": "any",
+    "min_literature_reports": null
+  },
+  "filter_counts": {
+    "input": 37277,
+    "already_oses_tested_material": 0,
+    "already_oses_composition": 33,
+    "out_of_training_element_domain": 34022,
+    "missing_domain_metadata": 0,
+    "missing_efa": 2964,
+    "efa_above_threshold": 66,
+    "wrong_best_route": 0,
+    "missing_phase_prediction": 0,
+    "rock_below_threshold": 51,
+    "spinel_below_threshold": 102,
+    "dual_below_threshold": 0,
+    "robust_dual_below_threshold": 0,
+    "literature_below_threshold": 0,
+    "eligible_before_composition_dedup": 39,
+    "duplicate_compositions_removed": 19,
+    "eligible_after_composition_dedup": 20
+  },
+  "selected_evidence": {
+    "with_efa": 20,
+    "with_literature": 3,
+    "best_route_air": 19,
+    "best_route_ar": 1,
+    "oses_composition_overlap": 0,
+    "compositionally_novel": 20
+  },
+  "outputs": {
+    "shortlist_json": "/home/tlatchm1/scratch/chemscreen_data/predictions/pco_selection/pco_shortlist.json",
+    "shortlist_jsonl": "/home/tlatchm1/scratch/chemscreen_data/predictions/pco_selection/pco_shortlist.jsonl"
+  }
+}

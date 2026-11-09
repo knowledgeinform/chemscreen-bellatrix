@@ -1,0 +1,24 @@
+﻿species,Composition,our_data,single_phase,source,notes
+"Co,Cu,Mg,Mn,Zn,O","0.1,0.1,0.1,0.1,0.1,0.5",No,No,10.1039/D2TA06101E,
+"Co,Cu,Mg,Ni,Zn,O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,10.1038/ncomms9485,first ESO
+"Co,Ni,Zn,Mn,Fe,O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,https://arxiv.org/pdf/2503.07866,
+"Co, Fe, Mg, Mn, Ni, O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,"
+10.48550/arXiv.2408.06322",
+"Mg, Co, Zn, Mn, Fe,O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,https://arxiv.org/pdf/2503.07865,
+"Mg, Co, Ni, Zn, Fe,O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,https://arxiv.org/pdf/2503.07869,
+"Mg, Ni, Zn, Mn, Fe,O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,https://arxiv.org/pdf/2503.07867,
+"Mg, Co, Ni, Zn, Mn,O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,https://arxiv.org/pdf/2503.07870,
+"Co, Cu, Mo, Ni, Zn,O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,10.1016/j.apmt.2020.100680,
+"Co, Cr, Fe, Mg, Ni,O","0.1,0.1,0.1,0.1,0.1,0.5",No,No,10.1016/j.jeurceramsoc.2019.11.030,
+"Co, Cr, Mg, Mn, Ni,O","0.1,0.1,0.1,0.1,0.1,0.5",No,No,10.1016/j.jeurceramsoc.2019.11.031,
+"Zn, Ni, Co, Mn, Cu,O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,10.1007/s10853-020-05183-4,
+"Al, Cr, Fe, Ni, Mn, O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,10.1016/j.jmmm.2021.168271,
+"Mg, Co, Ni, Al, Fe, O","0.1,0.1,0.1,0.1,0.1,0.5",No,Yes,https://arxiv.org/abs/2504.08209,
+"Co,Cu,Mg,Fe,Zn,O","0.1,0.1,0.1,0.1,0.1,0.5",Yes,Yes,APL,Oses11
+"Mg, Co, Ni, Zn, O","0.125,0.125,0.125,0.125,0.5",No,Yes,https://arxiv.org/pdf/2408.06322,
+"Co, Ni, Cu, Zn, O","0.125,0.125,0.125,0.125,0.5",No,No,https://arxiv.org/pdf/2408.06322,
+"Mg, Co, Ni, Cu, O","0.125,0.125,0.125,0.125,0.5",No,Yes,https://arxiv.org/pdf/2408.06322,
+"Mg, Ni, Cu, Zn, O","0.125,0.125,0.125,0.125,0.5",No,No,/10.1016/j.actamat.2024.120289.,
+"Mg, Co, Cu, Zn, O","0.125,0.125,0.125,0.125,0.5",No,No,https://arxiv.org/pdf/2408.06322,
+"Co, Fe, Mg, Ni, O","0.125,0.125,0.125,0.125,0.5",No,Yes,10.1039/c8ee00050f,
+"Mg,Ca,Mn,Fe,Ni,O","0.1,0.1,0.1,0.1,0.1,0.5",Yes,No,APL,

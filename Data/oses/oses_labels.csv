@@ -1,0 +1,65 @@
+ID,Composition,Phases Present,Single Phase,Confidence
+Oses 10 Ar,MgMnZnNiCu,None,N,High
+Oses 10 Air,MgMnZnNiCu,"Rock Salt, Spinel, Wurtzite",N,Medium
+Oses 11 - Ar,CoMgNiZnCu,None,N,Medium
+Oses 11 Air,CoMgNiZnCu,Rock Salt,Y,High
+Oses 12,CoMnNiFeCu,Spinel,N,High
+Oses 12 Ar,CoMnNiFeCu,Rock Salt,N,High
+Oses 13 Air,MgZnNiFeCu,"Rock Salt, Spinel",N,High
+Oses 14,CoMgMnNiCu,"Rock Salt, Spinel, Wurtzite",N,Medium
+Oses 15,MgMnNiFeCu,Spinel,N,High
+Oses 15 Ar,MgMnNiFeCu,None,N,High
+Oses 16,CoMgMnFeCu,Spinel,N,High
+Oses 17,CoMnZnFeCu,Spinel,N,High
+Oses 18,CoMgNiFeCu,Rock Salt,N,Medium
+Oses 19,MnZnNiFeCu,"Spinel, Rock Salt",N,Medium
+Oses 2 Air,CaCoMgMn,"Rock Salt, Spinel",N,Medium
+Oses 21,CoZnNiFeCu,Rock Salt,N,High
+Oses 22,CaCoMnNiFe,Spinel,N,Medium
+Oses 23,CaCoMgMnNi,None,N,Medium
+Oses 24,CaMgMnNiFe,Rock Salt,N,Medium
+Oses 25,CaCoMgMnFe,Spinel,N,Medium
+Oses 26,CaCoMgNiFe,None,N,Low
+Oses 27,CaCoMnNiCu,None,N,Low
+Oses 28,CaMgNiFeCu,None,N,Medium
+Oses 29,CaCoNiFeCu,"Rock Salt, Pervoskit",N,Medium
+Oses 3 Air,CaCoMnZn,None,N,Medium
+Oses 30,CaMgMnNiCu,Spinel,N,Medium
+Oses 31,CaCoMgMnCu,None,N,High
+Oses 32,CaCoMgMnZn,"Spinel, Rock Salt",N,Medium
+Oses 33,CaCoMgNiCu,Rock Salt,N,High
+Oses 35,CaCoMnZnFe,Spinel,N,High
+Oses 36,CaMnNiFeCu,None,N,Low
+Oses 38,CaMnZnNiFe,Spinel,N,Medium
+Oses 39,CaMgMnFeCu,"Rock Salt, Spinel",N,Medium
+Oses 40,CaMgMnZnNi,"Wurtzite, Spinel",N,Medium
+Oses 41,CaCoMnZnNi,"Rock Salt, Spinel",N,Medium
+Oses 42,CaCoZnNiFe,Rock Salt,N,High
+Oses 43,CaCoMnZnSn,Perovskite,N,Low
+Oses 44,CaCoMgZnNi,Rock Salt,N,High
+Oses 45,CaZnNiFeSn,Perovskite,N,Low
+Oses 46,CaCoMgZnFe,Rock Salt,N,High
+Oses 47,CaMgMnZnFe,Spinel,N,Medium
+Oses 48,CaCoMgMn,None,N,High
+Oses 49- Ar,CaCoMnZn,None,N,Medium
+Oses 54 -Ar,MgMnZnNiCu,Rock Salt,N,Medium
+Oses 59 Ar,MgMnNiFeCu,Rock Salt,N,Low
+Oses 62-Ar,CoMgNiFeCu,"Rock Salt, Spinel",N,Medium
+Oses 67 Ar,CaCoMgMnNi,None,N,Low
+Oses 69,CaCoMgMnFe,Rock Salt,N,High
+Oses 71 ,CaCoMnNiCu,None,N,Low
+Oses 71 Ar,CaCoMnNiCu,None,N,Medium
+Oses 73,CaCoNiFeCu,"Rock Salt, Spinel, Wurtzite",N,Medium
+Oses 75 Ar,CaCoMgMnCu,"Spinel, Rock Salt",N,Medium
+Oses 76-Ar,CaCoMgMnZn,Rock Salt,N,High
+Oses 77 Ar,CaCoMgNiCu,None,N,Medium
+Oses 79,CaCoMnZnFe,Spinel,N,High
+Oses 84 Ar,CaMgMnZnNi,None,N,Low
+Oses 85 -Ar,CaCoMnZnNi,None,N,High
+Oses 88 - Ar,CaCoMgZnNi,None,N,Medium
+Oses 9 Air,MgMnZnFeCu,Spinel,N,High
+Oses 91 Ar,CaMgMnZnFe,None,N,High
+Oses 92,MgAlFeCoZn,"Rock Salt, Wurtzite",N,High
+Oses 94,AlFeCoCuZn,None,N,Low
+Oses 96,MgAlFeCoCu,Rock Salt,N,Low
+Oses 98,MgMnCoCuZn,Rock Salt,N,High
